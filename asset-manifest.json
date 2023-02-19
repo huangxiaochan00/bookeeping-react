@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bookeeping-react/static/css/main.47f2af02.chunk.css",
+    "main.js": "/bookeeping-react/static/js/main.71f8b7c7.chunk.js",
+    "main.js.map": "/bookeeping-react/static/js/main.71f8b7c7.chunk.js.map",
+    "runtime-main.js": "/bookeeping-react/static/js/runtime-main.7d00fc42.js",
+    "runtime-main.js.map": "/bookeeping-react/static/js/runtime-main.7d00fc42.js.map",
+    "static/js/2.bfd0f557.chunk.js": "/bookeeping-react/static/js/2.bfd0f557.chunk.js",
+    "static/js/2.bfd0f557.chunk.js.map": "/bookeeping-react/static/js/2.bfd0f557.chunk.js.map",
+    "index.html": "/bookeeping-react/index.html",
+    "precache-manifest.6b0bc875d0809e6707469d11c86a2a05.js": "/bookeeping-react/precache-manifest.6b0bc875d0809e6707469d11c86a2a05.js",
+    "service-worker.js": "/bookeeping-react/service-worker.js",
+    "static/css/main.47f2af02.chunk.css.map": "/bookeeping-react/static/css/main.47f2af02.chunk.css.map",
+    "static/js/2.bfd0f557.chunk.js.LICENSE.txt": "/bookeeping-react/static/js/2.bfd0f557.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d00fc42.js",
+    "static/js/2.bfd0f557.chunk.js",
+    "static/css/main.47f2af02.chunk.css",
+    "static/js/main.71f8b7c7.chunk.js"
+  ]
+}
